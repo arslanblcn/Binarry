@@ -1,5 +1,5 @@
 # Binarry
-Getting vulnerable Unix binaries from GTFOBins written in pyton
+Getting vulnerable Unix binaries from GTFOBins written in python
 
 ```
 usage: getbin.py [-h] [-lb LBIN]
